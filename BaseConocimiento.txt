@@ -1,0 +1,4 @@
+Resultado,Marca,Talla,Color,Aumento
+NK-115,nike,25,blanco,3
+AD-255,adidas,24,begro,5
+CV-360,converse,23,gris,2

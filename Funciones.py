@@ -6,7 +6,7 @@ def leerBase():
 	Funcion que leer una base de conocimiento y la transforma en un arreglo de filas
 	'''
 	datos = []
-	archivo = open('nombre archivo.txt', 'r')  # Reemplaza 'nombre_archivo.txt' con la ruta y nombre de tu archivo
+	archivo = open('BaseConocimiento.txt', 'r')  # Reemplaza 'nombre_archivo.txt' con la ruta y nombre de tu archivo
 	try:
 		next(archivo)
 		for linea in archivo:
@@ -21,7 +21,7 @@ def cabeceras():
 	'''
 	Funcion que regresa la primera columna de un archivo de conocimiento.
 	'''
-	archivo = open('nombre archivo.txt', 'r')  # Reemplaza 'nombre_archivo.txt' con la ruta y nombre de tu archivo
+	archivo = open('BaseConocimiento.txt', 'r')  # Reemplaza 'nombre_archivo.txt' con la ruta y nombre de tu archivo
 	try:
 		aux = archivo.readline().rstrip('\n').split(',')
 		aux = aux[1:]
@@ -58,4 +58,14 @@ def matchPreference(preferencia, conocimiento):
 	'''
 	Calcular el angulo minimo entre el input, y la base de conocimiento
 	'''
+	match = 0
+	for row in conocimiento:
+		res = matchUserInput(preferencia, row)
+		print(res)
+		count = 0
+		for x in res:
+			if x == 1:
+				count = count+1
+		if count > match:
+			recomendado = row[0]
 	return recomendado
