@@ -61,7 +61,6 @@ def matchPreference(preferencia, conocimiento):
 	match = 0
 	for row in conocimiento:
 		res = matchUserInput(preferencia, row)
-		print(res)
 		count = 0
 		for x in res:
 			if x == 1:
