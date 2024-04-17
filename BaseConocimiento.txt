@@ -1,4 +1,190 @@
-Resultado,Marca,Talla,Color,Aumento
-NK-115,nike,25,blanco,3
-AD-255,adidas,24,begro,5
-CV-360,converse,23,gris,2
+Name,Grape,Country,Vintage,Price
+Moët & Chandon Impérial,Chardonnay,France,2019,50
+Veuve Clicquot Yellow Label,Pinot Noir,France,2016,55
+Krug Grande Cuvée,Pinot Noir,France,2010,150
+Dom Pérignon,Chardonnay,France,2008,200
+Ruinart Blanc de Blancs,Chardonnay,France,2017,75
+Taittinger Brut Réserve,Chardonnay,France,2017,60
+Bollinger Special Cuvée,Pinot Noir,France,2014,70
+Louis Roederer Cristal,Chardonnay,France,2009,250
+Perrier-Jouët Belle Epoque,Chardonnay,France,2012,180
+Charles Heidsieck Brut Réserve,Chardonnay,France,2015,65
+Krug Rosé,Pinot Noir,France,2012,300
+Pol Roger Brut Réserve,Chardonnay,France,2018,45
+Veuve Clicquot Rosé,Pinot Noir,France,2015,65
+Nicolas Feuillatte Brut Reserve,Pinot Noir,France,2019,40
+Gosset Grande Réserve,Chardonnay,France,2016,55
+Ruinart Rosé,Chardonnay,France,2018,80
+Laurent-Perrier Brut Millésimé,Chardonnay,France,2009,90
+Piper-Heidsieck Cuvée Brut,Chardonnay,France,2019,35
+Deutz Brut Classic,Chardonnay,France,2018,50
+Louis Roederer Brut Premier,Chardonnay,France,2017,60
+Billecart-Salmon Brut Réserve,Chardonnay,France,2017,70
+Jacquesson Cuvée 743,Chardonnay,France,2015,85
+Pommery Brut Royal,Chardonnay,France,2018,40
+Ayala Brut Majeur,Chardonnay,France,2019,45
+Bollinger Rosé,Pinot Noir,France,2015,90
+Drappier Carte d'Or Brut,Pinot Noir,France,2019,55
+G.H. Mumm Cordon Rouge,Pinot Noir,France,2019,50
+Domaine Chandon Brut Classic,Chardonnay,United States,2018,30
+Gloria Ferrer Brut,Chardonnay,United States,2019,25
+Schramsberg Blanc de Blancs,Chardonnay,United States,2017,40
+Roederer Estate Brut,Chardonnay,United States,2018,35
+Domaine Carneros Brut,Chardonnay,United States,2019,45
+Mumm Napa Brut Prestige,Chardonnay,United States,2019,30
+Korbel Brut,Chardonnay,United States,2019,20
+Domaine Chandon Rosé,Pinot Noir,United States,2016,35
+Gloria Ferrer Blanc de Noirs,Pinot Noir,United States,2017,25
+Scharffenberger Brut Excellence,Chardonnay,United States,2019,30
+Domaine Ste. Michelle Brut,Chardonnay,United States,2019,25
+Iron Horse Classic Vintage Brut,Chardonnay,United States,2013,50
+Korbel Natural,Chardonnay,United States,2019,25
+Gruet Brut,Chardonnay,United States,2019,20
+Argyle Brut,Chardonnay,United States,2019,35
+Mumm Napa Brut Rosé,Pinot Noir,United States,2019,30
+Schramsberg Mirabelle Brut,Chardonnay,United States,2019,40
+Korbel Sweet Rosé,Pinot Noir,United States,2019,20
+Billecart-Salmon Brut Réserve,Chardonnay,Italy,2017,45
+Marchesi di Barolo Brut,Chardonnay,Italy,2018,40
+Astoria Prosecco,Prosecco,Italy,2019,20
+Bisol Jeio Prosecco,Prosecco,Italy,2019,25
+Mionetto Prosecco Brut,Prosecco,Italy,2019,30
+La Marca Prosecco,Prosecco,Italy,2019,35
+Zonin Prosecco,Prosecco,Italy,2019,30
+Ferrari Brut,Chardonnay,Italy,2017,45
+Bellavista Franciacorta Brut,Chardonnay,Italy,2018,50
+Ca' del Bosco Cuvée Prestige,Chardonnay,Italy,2016,55
+Berlucchi Cuvée Imperiale Brut,Chardonnay,Italy,2019,40
+Rocca Sveva Extra Dry,Chardonnay,Italy,2019,35
+Bortolomiol Valdobbiadene Brut,Prosecco,Italy,2019,40
+Montenisa Franciacorta Brut,Chardonnay,Italy,2018,50
+Santa Margherita Prosecco Superiore,Prosecco,Italy,2019,45
+Cantina Zaccagnini Prosecco,Prosecco,Italy,2019,30
+Ruffino Prosecco,Prosecco,Italy,2019,35
+Villa Sandi Prosecco Superiore,Prosecco,Italy,2019,40
+Riondo Prosecco,Prosecco,Italy,2019,25
+La Gioiosa Prosecco,Prosecco,Italy,2019,30
+Montaudon Brut,Chardonnay,Italy,2017,60
+Cuvée Marcello,Pinot Noir,Italy,2018,40
+Montenisa Franciacorta Rosé,Chardonnay,Italy,2019,55
+Tenuta Col Sandago Prosecco Extra Dry,Prosecco,Italy,2019,30
+Alfred Gratien Brut,Chardonnay,France,2016,60
+André Clouet Grand Cru,Pinot Noir,France,2012,70
+Aubry Brut,Chardonnay,France,2019,55
+Avize Grand Cru Blanc de Blancs,Chardonnay,France,2014,100
+Barnaut Blanc de Noirs Grand Cru,Pinot Noir,France,2015,65
+Baron-Fuenté Grande Réserve,Pinot Meunier,France,2016,40
+Bérêche et Fils Reflet d'Antan,Pinot Noir,France,2009,150
+Billecart-Salmon Sous Bois,Pinot Noir,France,2018,90
+Bollinger Vieilles Vignes Françaises,Pinot Noir,France,2002,500
+Bonnaire Grand Cru Blanc de Blancs,Chardonnay,France,2017,70
+Brice Brut Tradition,Chardonnay,Pinot Noir,France,2019,50
+Bruno Paillard Brut Première Cuvée,Chardonnay,Pinot Noir,France,2018,80
+Charles Heidsieck Blanc des Millénaires,Chardonnay,France,1995,250
+Chartogne-Taillet Cuvée Sainte-Anne,Pinot Noir,Chardonnay,France,2016,45
+Dehours & Fils Grande Réserve,Pinot Meunier,Pinot Noir,France,2019,55
+Delamotte Blanc de Blancs,Chardonnay,France,2019,65
+Diebolt-Vallois Prestige Brut,Chardonnay,Pinot Noir,France,2018,60
+Drappier Grande Sendrée,Pinot Noir,Chardonnay,France,2008,85
+Egly-Ouriet Grand Cru Brut Tradition,Pinot Noir,Chardonnay,France,2019,75
+Eric Rodez Cuvée des Crayères,Pinot Noir,Chardonnay,France,2019,90
+Franck Bonville Grand Cru Blanc de Blancs,Chardonnay,France,2018,60
+Gaston Chiquet Tradition Brut,Chardonnay,Pinot Meunier,France,2017,45
+Geoffroy Expression Brut Premier Cru,Pinot Noir,Chardonnay,France,2016,55
+Henri Giraud Esprit Nature Brut,Pinot Noir,Chardonnay,France,2019,70
+Jacquesson Cuvée 739 Extra Brut,Chardonnay,Pinot Noir,France,2019,80
+Jean Milan Blanc de Blancs Grand Cru,Chardonnay,France,2015,75
+José Michel & Fils Brut Tradition,Pinot Meunier,Chardonnay,France,2018,40
+Krug Clos du Mesnil Blanc de Blancs,Chardonnay,France,2006,1500
+Laherte Frères Les Empreintes Extra Brut,Pinot Meunier,Chardonnay,France,2014,90
+Lancelot-Pienne Cuvée de Réserve Brut,Chardonnay,Pinot Noir,France,2017,50
+Larmandier-Bernier Longitude Blanc de Blancs,Chardonnay,France,2019,70
+Leclerc Briant Brut Réserve,Pinot Noir,Chardonnay,France,2019,55
+Marguet Père et Fils Shaman 15,Pinot Noir,Chardonnay,France,2015,120
+Marie Courtin Efflorescence Extra Brut,Pinot Noir,France,2013,80
+Michel Gonet Blanc de Blancs Brut Nature,Chardonnay,France,2018,60
+Pierre Gimonnet & Fils Oenophile Extra Brut,Chardonnay,France,2019,85
+Pierre Moncuit Blanc de Blancs Grand Cru,Chardonnay,France,2016,70
+Ruinart Dom Ruinart Blanc de Blancs,Chardonnay,France,2004,300
+Salon Le Mesnil Blanc de Blancs Brut,Chardonnay,France,2007,500
+Selosse Substance Blanc de Blancs,Chardonnay,France,2018,250
+Tarlant Cuvée Louis Brut Nature,Chardonnay,Pinot Noir,France,2019,60
+Varnier-Fannière Grand Cru Brut Nature,Chardonnay,Pinot Noir,France,2019,65
+Veuve Fourny & Fils Blanc de Blancs Brut,Chardonnay,France,2019,55
+Waris-Hubert Blanc de Blancs Grand Cru,Chardonnay,France,2018,80
+Weinbach Crémant d'Alsace Brut Réserve,Pinot Blanc,France,2019,40
+Raventós i Blanc de Nit Rosé,Macabeo,Spain,2019,45
+Gramona III Lustros Gran Reserva Brut Nature,Macabeo,Spain,2019,70
+Recaredo Terrers Brut Nature Gran Reserva,Macabeo,Spain,2019,60
+Cavas Naveran Brut Nature,Macabeo,Spain,2019,50
+Llopart Leopardi Brut Reserva,Macabeo,Spain,2019,45
+Mestres Visol Gran Reserva Brut Nature,Macabeo,Spain,2019,55
+Castellroig Brut Nature Gran Reserva,Macabeo,Spain,2019,50
+Finca Valldosera Brut Nature Gran Reserva,Macabeo,Spain,2019,60
+Cavas Torelló Gran Reserva Brut Nature,Macabeo,Spain,2019,55
+Cavas Llopart Brut Nature Gran Reserva,Macabeo,Spain,2019,50
+Giro Ribot Gran Reserva Brut Nature,Macabeo,Spain,2019,60
+Covides Gran Reserva Brut Nature,Macabeo,Spain,2019,55
+Pere Ventura Tresor Brut Nature Gran Reserva,Macabeo,Spain,2019,65
+Raventós de Alella Brut Nature Gran Reserva,Macabeo,Spain,2019,50
+Jaume Giró i Giró Brut Nature Gran Reserva,Macabeo,Spain,2019,55
+Torelló 225 Brut Nature Gran Reserva,Macabeo,Spain,2019,65
+Sumarroca Gran Reserva Brut Nature,Macabeo,Spain,2019,60
+Castellroig Brut Rosat Reserva,Macabeo,Spain,2019,50
+Cavas Llopart Brut Rosé Reserva,Macabeo,Spain,2019,55
+Gramona Brut Rosé Gran Reserva,Macabeo,Spain,2019,60
+Recaredo Intens Rosat Brut Nature Gran Reserva,Macabeo,Spain,2019,65
+Llopart Rosé Brut Reserva,Macabeo,Spain,2019,55
+Mestres Cuvée Antonio Mestres Brut Nature,Macabeo,Spain,2019,60
+Pere Ventura Tresor Rosé Brut Nature Gran Reserva,Macabeo,Spain,2019,65
+Torelló Rosé Brut Nature Gran Reserva,Macabeo,Spain,2019,60
+Albet i Noya Brut Reserva,Macabeo,Spain,2019,50
+Segura Viudas Brut Reserva,Macabeo,Spain,2019,40
+Codorníu Brut Reserva,Macabeo,Spain,2019,35
+Freixenet Cordon Negro Brut,Macabeo,Spain,2019,30
+Juvé & Camps Reserva de la Familia Brut Nature Gran Reserva,Macabeo,Spain,2019,65
+Raventós i Blanc de Nit Rosé,Macabeo,Spain,2019,45
+Torresella Prosecco,Prosecco,Italy,2019,20
+Montelliana Prosecco,Prosecco,Italy,2019,25
+Borgo San Leo Prosecco,Prosecco,Italy,2019,30
+Riondo Prosecco Spago Nero,Prosecco,Italy,2019,35
+Maschio dei Cavalieri Prosecco,Prosecco,Italy,2019,40
+Ruggeri Prosecco Argeo,Prosecco,Italy,2019,45
+Villa Sandi Prosecco,Prosecco,Italy,2019,50
+Fantinel Prosecco One & Only,Prosecco,Italy,2019,55
+La Marca Prosecco,Prosecco,Italy,2019,60
+Astoria Prosecco,Prosecco,Italy,2019,65
+Cantine Maschio Prosecco,Prosecco,Italy,2019,70
+Bellussi Prosecco Superiore,Prosecco,Italy,2019,75
+Villa Sandi Prosecco Superiore Vigneto La Rivetta,Prosecco,Italy,2019,80
+Valdo Prosecco Superiore Brut,Prosecco,Italy,2019,85
+Cavit Lunetta Prosecco,Prosecco,Italy,2019,90
+Mionetto Prosecco Valdobbiadene Superiore,Prosecco,Italy,2019,95
+Nino Franco Rustico Prosecco,Prosecco,Italy,2019,100
+La Gioiosa Prosecco Superiore,Prosecco,Italy,2019,105
+Cester Camillo Prosecco Superiore Valdobbiadene,Prosecco,Italy,2019,110
+Sorelle Bronca Particella 232 Prosecco Superiore,Prosecco,Italy,2019,115
+Villa Sandi Vigneto la Rivetta Prosecco Superiore,Prosecco,Italy,2019,120
+Nino Franco Primo Franco Prosecco Superiore,Prosecco,Italy,2019,125
+Ca' Furlan Cuvée Beatrice Prosecco Superiore,Prosecco,Italy,2019,130
+Bisol Crede Prosecco Superiore,Prosecco,Italy,2019,135
+Astoria Casa Vittorino Prosecco Superiore,Prosecco,Italy,2019,140
+Nino Franco Grave di Stecca Prosecco Superiore,Prosecco,Italy,2019,145
+La Marca Luminore Prosecco Superiore,Prosecco,Italy,2019,150
+La Tordera Saomé Prosecco Superiore,Prosecco,Italy,2019,155
+Mionetto Sergio Prosecco Superiore,Prosecco,Italy,2019,160
+Villa Sandi Superiore di Cartizze,Prosecco,Italy,2019,165
+Astoria Prosecco Superiore,Prosecco,Italy,2019,170
+Mongarda Prosecco Superiore,Prosecco,Italy,2019,175
+Ruggeri Quartese Prosecco Superiore,Prosecco,Italy,2019,180
+Maschio dei Cavalieri Prosecco Valdobbiadene Superiore,Prosecco,Italy,2019,185
+Foss Marai Surfiner Prosecco Superiore,Prosecco,Italy,2019,190
+Sorelle Bronca Extra Brut Prosecco Superiore,Prosecco,Italy,2019,195
+Bisol Jeio Prosecco Valdobbiadene Superiore,Prosecco,Italy,2019,200
+Valdo Oro Puro Prosecco Superiore,Prosecco,Italy,2019,205
+Carpene Malvolti Extra Dry Prosecco,Prosecco,Italy,2019,210
+Santome Extra Dry Prosecco,Prosecco,Italy,2019,215
+Pizzolato Fields Prosecco,Prosecco,Italy,2019,220
+Zonin Primo Amore Prosecco,Prosecco,Italy,2019,225
+Santa Margherita Valdobbiadene Prosecco Superiore,Prosecco,Italy,2019,230
+Martini & Rossi Prosecco,Prosecco,Italy,2019,235
