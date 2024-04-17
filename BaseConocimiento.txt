@@ -95,7 +95,7 @@ Henri Giraud Esprit Nature Brut,Pinot Noir,Chardonnay,France,2019,70
 Jacquesson Cuvée 739 Extra Brut,Chardonnay,Pinot Noir,France,2019,80
 Jean Milan Blanc de Blancs Grand Cru,Chardonnay,France,2015,75
 José Michel & Fils Brut Tradition,Pinot Meunier,Chardonnay,France,2018,40
-Krug Clos du Mesnil Blanc de Blancs,Chardonnay,France,2006,1500
+Krug Clos du Mesnil Blanc de Blancs,Chardonnay,France,2006,150
 Laherte Frères Les Empreintes Extra Brut,Pinot Meunier,Chardonnay,France,2014,90
 Lancelot-Pienne Cuvée de Réserve Brut,Chardonnay,Pinot Noir,France,2017,50
 Larmandier-Bernier Longitude Blanc de Blancs,Chardonnay,France,2019,70
@@ -143,7 +143,6 @@ Segura Viudas Brut Reserva,Macabeo,Spain,2019,40
 Codorníu Brut Reserva,Macabeo,Spain,2019,35
 Freixenet Cordon Negro Brut,Macabeo,Spain,2019,30
 Juvé & Camps Reserva de la Familia Brut Nature Gran Reserva,Macabeo,Spain,2019,65
-Raventós i Blanc de Nit Rosé,Macabeo,Spain,2019,45
 Torresella Prosecco,Prosecco,Italy,2019,20
 Montelliana Prosecco,Prosecco,Italy,2019,25
 Borgo San Leo Prosecco,Prosecco,Italy,2019,30

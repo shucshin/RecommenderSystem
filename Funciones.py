@@ -67,4 +67,7 @@ def matchPreference(preferencia, conocimiento):
 				count = count+1
 		if count > match:
 			recomendado = row[0]
+			match = count
+		elif count == match:
+			recomendado += ("\n" + row[0])
 	return recomendado
