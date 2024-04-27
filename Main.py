@@ -58,7 +58,7 @@ if __name__ == '__main__':
     print(pred)
 
     '''Recomendación'''
-    ans = Funciones.matchPreference(like, pred, Base)
+    ans = Funciones.matchPreference(like, pred, Nombres)
     print("Respuesta: ", end="")
     print(ans)
 """

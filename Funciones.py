@@ -147,11 +147,11 @@ def matchPreference(like, pred, conocimiento):
 	'''
 	match = 0.0
 	for i, x in enumerate(pred):
-		if conocimiento[i][0] in like:
+		if conocimiento[i] in like:
 			continue
 		if x > match:
-			recomendado = conocimiento[i][0]
+			recomendado = conocimiento[i]
 			match = x
 		elif x == match:
-			recomendado += ("\n" + conocimiento[i][0])
+			recomendado += ("\n" + conocimiento[i])
 	return recomendado
