@@ -1,4 +1,4 @@
 # Recommender System
 
 ## Description:
-Recommender System AI
+AI Recommender System for Wines around the Globe
