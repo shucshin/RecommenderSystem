@@ -43,7 +43,9 @@ def cabeceras():
 
 def totalAtributos(datos):
 	'''
-	Total de atributos del producto por cada producto. TA (Suma Fila)	
+	Total de atributos del producto por cada producto. TA (Suma Fila).
+	Conteo de cuantos atributos en total estamos tomando en cuenta para hacer nuestra recomendación.
+	Columna de Total Atributos (Suma de las columnas de cada producto).
 	'''
 	atributos = []
 	for linea in datos:
@@ -56,7 +58,9 @@ def totalAtributos(datos):
 
 def normalizar(datos, TA):
 	'''
-	Funcion que normaliza la base de conocimiento
+	Funcion que normaliza la base de conocimiento.
+	Normalizas los datos con respecto al total de atributos.
+	Divide el atributo entre la raíz(Total Atributos).
 	'''
 	normalizado = []
 	i = 0
@@ -70,7 +74,8 @@ def normalizar(datos, TA):
 
 def matchUserInput(like, dislike, conocimiento):
 	'''
-	Función para obtener en Vector Usuario
+	Función para obtener en Vector Usuario, cuando al usuario le gusta un atributo es 1 si no le gusta el atributo es -1.
+	Podemos hacer una deducción y trasladar las caracteristicas de este producto para predecir cuales otros le gustarían.
 	'''
 	pref = []
 	for text in conocimiento:
@@ -93,7 +98,7 @@ def matchUserInput(like, dislike, conocimiento):
 
 def interesAtributo(norm, vect):
 	'''
-	Función que calcula los Intereses por Atributo
+	Función que calcula los Intereses por Atributo que busca intereses positivos o negativos que se calculan a partir de un producto punto. 
 	'''
 	IpA = [0.0 for _ in range(len(norm[0]))]
 	j = 0
@@ -106,7 +111,8 @@ def interesAtributo(norm, vect):
 
 def obtenerDF(conocimiento):
 	'''
-	Función para obtener DF
+	Función para obtener DF que es el Total de apariciones (Frecuencia del termino el nuestra BaseConocimiento).
+	Es la suma de columna, de la tabla original, cuantas veces aparece el atributo.
 	'''
 	df = [0 for _ in range(len(conocimiento[0])-1)]
 	for linea in conocimiento:
@@ -117,7 +123,8 @@ def obtenerDF(conocimiento):
 
 def obtenerIDF(df,conocimiento):
 	'''
-	Función para obtener IDF
+	Función para obtener IDF (Inverso de la frecuencia que calculamos anteriormente).
+	Formula: log(TotalProductos/DF) = Cercanos a 1 pero nunca es mayor a 1
 	'''
 	tp = len(conocimiento)
 	idf = []
@@ -130,6 +137,8 @@ def obtenerIDF(df,conocimiento):
 def prediccion(norm, idf, IpA):
 	'''
 	Función para calcular las predicciones con Producto Punto
+	Formula: ProductoPunto(FilaNormalizada,IDF,IpA)
+	IpA = Interes por Atributo
 	'''
 	pred = []
 	for linea in norm:
