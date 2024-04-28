@@ -43,5 +43,7 @@ if __name__ == '__main__':
 
     '''Recomendación'''
     ans = Funciones.matchPreference(like, pred, Nombres)
-    print("Los Vinos que le recomendamos son: ", end="")
-    print(ans)
+    print("Los Vinos que le recomendamos son: ")
+    for x in ans:
+        print("- ", end="")
+        print(x.capitalize())

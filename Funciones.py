@@ -150,7 +150,7 @@ def prediccion(norm, idf, IpA):
 
 
 def matchPreference(like, pred, conocimiento):
-	recomendado = ""
+	recomendado = []
 	'''
 	Calcular el angulo minimo entre el input, y la base de conocimiento
 	'''
@@ -159,8 +159,8 @@ def matchPreference(like, pred, conocimiento):
 		if conocimiento[i] in like:
 			continue
 		if x > match:
-			recomendado = conocimiento[i]
+			recomendado = [conocimiento[i]]
 			match = x
 		elif x == match:
-			recomendado += ("\n" + conocimiento[i])
+			recomendado.append(conocimiento[i])
 	return recomendado

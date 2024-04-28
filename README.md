@@ -19,3 +19,9 @@ Execute:
 ```sh
 python3 Main.py
 ```
+
+Wine names input examples:
+```sh
+Albariño de Fefiñanes, Pintia, Pingus
+Roda, Numanthia, Pruno
+```
